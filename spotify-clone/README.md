@@ -1,7 +1,5 @@
 # Realtime Spotify Clone ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 A realtime music web application with chat, live presence, and an admin dashboard for managing albums and songs. This repo contains a Node.js/Express backend and a TypeScript/Vite React frontend.
 
 
