@@ -4,7 +4,6 @@
 
 A realtime music web application with chat, live presence, and an admin dashboard for managing albums and songs. This repo contains a Node.js/Express backend and a TypeScript/Vite React frontend.
 
-Watch the full tutorial on YouTube: https://youtu.be/4sbklcQ0EXc
 
 ## Features
 
@@ -103,13 +102,6 @@ The repository includes seed files under `backend/src/seeds` for albums and song
 
 Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
 
-## License
-
-This project is provided for educational purposes. Check the original repository or video description for license details.
-
----
-
-If you'd like, I can also:
 
 - Add a one-command `start` script to run both backend and frontend concurrently
 - Add a short development checklist for common env values
